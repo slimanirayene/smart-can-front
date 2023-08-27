@@ -18,7 +18,9 @@ export default function Main() {
 						margin: 10,
 						height: 250,
 						maxWidth: 250,
-						background: `linear-gradient(to top, #142b01 ${30}%, white ${40}%)`,
+						background: `linear-gradient(to top, #fff56b ${10}%, #fcfcfc ${40}%)`,
+						border: "2px solid #142b01",
+						color: "#142b01",
 					}}
 				>
 					<b>30%</b>
